@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yucedalnida@gmail.com
 - ⚡ Fun fact: I like to learn new language and i love coding with Java:)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidaYucedal&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidaYucedal&show_icons=true&theme=moltack)
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=NidaYucedal&show_icons=true&theme=pink) 
 
 
