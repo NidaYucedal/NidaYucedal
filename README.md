@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 
 
-![snake gif]([github-contribution-grid-snake.svg](https://github.com/NidaYucedal/NidaYucedal/blob/output/github-contribution-grid-snake.svg))
+![snake gif](https://github.com/NidaYucedal/NidaYucedal/blob/output/github-contribution-grid-snake.svg)
 
