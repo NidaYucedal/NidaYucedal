@@ -1,9 +1,4 @@
-### Bonjour 👋
-
-
-
-
-Here are some ideas to get you started:
+### Bonjour ฅ^•ﻌ•^ฅ
 
 - 🔭 I’m Full Stack Automation Engineer🌸
 - 🌱 I’m currently learning java🎀
@@ -22,7 +17,11 @@ Here are some ideas to get you started:
    ＼二)
 
 
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidaYucedal&show_icons=true&theme=moltack)
+
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nida-y%C3%BCcedal-394246243)
 
