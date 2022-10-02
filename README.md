@@ -7,11 +7,10 @@
 - 💌 How to reach me: yucedalnida@gmail.com ✿
 - 💗 Fun fact: I like to learn new language and i love coding with Java:)
 
-
-             ／＞　 フ
+             ／＞　 フ                        
             | 　_　_| 
           ／` ミ＿xノ 
-         /　　　　 |                  🍓🥛
+         /　　　　 |                             
         /　 ヽ　　 ﾉ
         │　　|　|　|
    
