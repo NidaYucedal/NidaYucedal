@@ -1,11 +1,11 @@
 ### Bonjour ฅ^•ﻌ•^ฅ
 
 
-♡ 🌸I’m Full Stack Automation Engineer
-♡ 🎀 I’m currently learning java
-♡ 💻 Ask me about Java-Selenium-Lambda-Html-Jdbc-PostgreSql
-♡ 💌 How to reach me: yucedalnida@gmail.com ✿
-♡ 💗 Fun fact: I like to learn new language and i love coding with Java:)
+- 🌸I’m Full Stack Automation Engineer
+- 🎀 I’m currently learning java
+- 💻 Ask me about Java-Selenium-Lambda-Html-Jdbc-PostgreSql
+- 💌 How to reach me: yucedalnida@gmail.com ✿
+- 💗 Fun fact: I like to learn new language and i love coding with Java:)
 
 
              ／＞　 フ
@@ -15,9 +15,7 @@
         /　 ヽ　　 ﾉ
         │　　|　|　|
     ／￣|    |　|　|
-   (￣ヽ＿_ヽ_)__)
-   ＼二)
-
+  
 
 
 
