@@ -1,7 +1,7 @@
 ### Bonjour ฅ^•ﻌ•^ฅ 
 
 
-- 🌸I’m Full Stack Automation Engineer
+- 🌸I’m Full Stack Automation Engineer ❀
 - 🎀 I’m currently learning java ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 - 💻 Ask me about Java-Selenium-Lambda-Html-Jdbc-PostgreSql
 - 💌 How to reach me: yucedalnida@gmail.com ✿
