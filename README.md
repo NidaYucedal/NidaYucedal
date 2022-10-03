@@ -5,7 +5,7 @@
 - 🎀 I’m currently learning java ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 - 💻 Ask me about Java-Selenium-Lambda-Html-Jdbc-PostgreSql ★ 彡
 - 💌 How to reach me: yucedalnida@gmail.com ✿
-- 💗 Fun fact: I like to learn new language and i love coding with Java:)
+- 💗 Fun fact: I like to learn new language and i love coding with Java ❁
 
              ／＞　 フ                        
             | 　_　_| 
