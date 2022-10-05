@@ -2,19 +2,20 @@
 
 - 🌸I’m Full Stack Automation Engineer 
 - 🎀 I’m currently learning java  ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
-- 💻 Ask me about Java-Selenium-Lambda-Html-Jdbc-PostgreSql ★彡      
+- 💻 Ask me about Java-Selenium-Lambda-Html-Jdbc-PostgreSql ★彡
 - 💌 How to reach me: yucedalnida@gmail.com ✿
 - 💗 Fun fact: I like to learn new language and i love coding with Java ❁
+
 
              ／＞　 フ                        
             | 　_　_| 
           ／` ミ＿xノ 
          /　　　　 |                             
-        /　 ヽ　　 ﾉ
-        │　　|　|　|
+        /　 ヽ　　 ﾉ       
+        │　　|　|　|       
    
-  
-
+ 
+ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidaYucedal&show_icons=true&theme=moltack)
 
@@ -30,5 +31,5 @@
 
 ![snake gif](https://github.com/NidaYucedal/NidaYucedal/blob/output/github-contribution-grid-snake.svg)
 
-![Alt Text](https://github.com/NidaYucedal/NidaYucedal/blob/main/tenor.gif)
+![Alt Text](https://github.com/NidaYucedal/NidaYucedal/blob/main/tenor.gif) <img align=beside width=300 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" />
 
