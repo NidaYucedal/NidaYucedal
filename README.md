@@ -1,4 +1,4 @@
-### Bonjour <img align=beside width=60 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966.gif" />
+### Bonjour <img align=beside width=160 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/c25882c15c5e1a39091f3d0bed50f3e9.gif" />
 
 - 🌸I’m Full Stack Automation Engineer ♡
 - 🎀 I’m currently learning Java  ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
