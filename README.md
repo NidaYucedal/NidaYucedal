@@ -1,7 +1,7 @@
 ### Bonjour <img align=beside width=180 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/c25882c15c5e1a39091f3d0bed50f3e9.gif" />
 
 - 🌸 I’m Full Stack Automation Engineer ♡
-- 🎀 I'm current learning Java ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
+- 🎀 I'm currentl learning Java ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 - 💻 Ask me about Java-Selenium-Lambda-Html-Jdbc-PostgreSQL ★彡
 - 💌 How to reach me: yucedalnida@gmail.com ❀
 - 💗 Fun Fact: I like to learn new language and i love coding with Java❁
