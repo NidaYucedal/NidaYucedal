@@ -3,7 +3,7 @@
 - 🌸 I’m Full Stack Automation Engineer ♡
 - 🎀 I'm currently learning Java ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 - 💻 Ask me about Java-Selenium-Lambda-Html-Jdbc-PostgreSQL ★彡
-- 💌 How to rea me: yucedalnida@gmail.com ❀
+- 💌 How to reac me: yucedalnida@gmail.com ❀
 - 💗 Fun Fact: I like to learn new language and i love coding with Java❁
 
 
