@@ -28,8 +28,9 @@
 
 
 ![snake gif](https://github.com/NidaYucedal/NidaYucedal/blob/output/github-contribution-grid-snake.svg)
+<img align=above width=250 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/42a29875bb8671c69d7ec3c682392cee.gif" /><img align=above width=250 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/42a29875bb8671c69d7ec3c682392cee.gif" />
 
-<img align=beside width=300 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" /><img align=beside width=300 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" />
 
+<!-- <img align=beside width=300 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" /><img align=beside width=300 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" />  --!>
 
 
