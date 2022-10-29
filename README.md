@@ -19,7 +19,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidaYucedal&show_icons=true&theme=moltack)
 
 
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nida-y%C3%BCcedal-394246243)
+<!-- [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nida-y%C3%BCcedal-394246243) --!>
 
 <img align=beside width=120 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/a046426ae8ff112ca886241a9acd70a9.gif" />
 
