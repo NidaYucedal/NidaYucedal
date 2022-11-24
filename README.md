@@ -35,3 +35,10 @@
 
 <!-- <img align=above width=100 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/58ead8653c13a74b7b29140fdf61a168.jpg" /> --!>
 
+
+<hr>
+
+
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nida-yucedal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="NidaYucedal" height="30" width="40" /></a>
