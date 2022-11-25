@@ -35,13 +35,13 @@
 
 <!-- <img align=above width=100 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/58ead8653c13a74b7b29140fdf61a168.jpg" /> --!>
 
-
+<!--
 <hr>
 
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nida-yucedal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NidaYucedal" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/nida-yucedal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NidaYucedal" height="20" width="30" /></a>  --!>
 
 
 
