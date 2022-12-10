@@ -43,4 +43,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nida-yucedal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NidaYucedal" height="20" width="30" /></a>  
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=NidaYucedal&label=Profile%20views&color=0e75b6&style=flat" alt="NidaYucedal" /> </p>
+<p align="beside"> <img src="https://komarev.com/ghpvc/?username=NidaYucedal&label=Profile%20views&color=0e75b6&style=flat" alt="NidaYucedal" /> </p>
