@@ -19,8 +19,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidaYucedal&show_icons=true&theme=moltack)
 
 
-<img align=beside width=150 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/a046426ae8ff112ca886241a9acd70a9.gif" />
- 
+
 
 ![snake gif](https://github.com/NidaYucedal/NidaYucedal/blob/output/github-contribution-grid-snake.svg)
 <img align=beside width=300 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" /><img align=beside width=300 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" /> 
@@ -34,7 +33,7 @@
 <!-- <img align=above width=100 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/58ead8653c13a74b7b29140fdf61a168.jpg" /> --!>
 <!-- <img align=beside src="https://github.com/NidaYucedal/NidaYucedal/blob/main/result.gif" /> --!>
 
-
+<!-- <img align=beside width=150 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/a046426ae8ff112ca886241a9acd70a9.gif" /> --!>
 
 
 <!-- <p align="left">
