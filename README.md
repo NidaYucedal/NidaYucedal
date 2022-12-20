@@ -6,13 +6,6 @@
 - 💌 How to reach me: yucedalnida@gmail.com ❀
 - 💗 Fun Fact: I like to learn new language and i love coding with Java❁
 
-
-             ／＞　 フ                        
-            | 　_　_| 
-          ／` ミ＿xノ                                                                                  
-         /　　　　 |                            
-        /　 ヽ　　 ﾉ       
-        │　　|　|　|       
    
  
 
@@ -35,6 +28,14 @@
 
 <!-- <img align=beside width=150 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/a046426ae8ff112ca886241a9acd70a9.gif" /> --!>
 
+<!-- 
+
+             ／＞　 フ                        
+            | 　_　_| 
+          ／` ミ＿xノ                                                                                  
+         /　　　　 |                            
+        /　 ヽ　　 ﾉ       
+        │　　|　|　|       --!>
 
 <!-- <p align="left">
 <a href="https://www.linkedin.com/in/nida-yucedal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NidaYucedal" height="20" width="30" /></a>  --!>
