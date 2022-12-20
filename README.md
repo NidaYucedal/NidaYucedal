@@ -6,10 +6,12 @@
 - 💌 How to reach me: yucedalnida@gmail.com ❀
 - 💗 Fun Fact: I like to learn new language and i love coding with Java❁
 
-   
+
+<img align=beside width=190 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/6c9d78ff0aef15b00a358ab718ed3aca.gif" />
+
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidaYucedal&show_icons=true&theme=moltack)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidaYucedal&show_icons=true&theme=buefy)
 
 
 
