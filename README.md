@@ -17,7 +17,9 @@
 
 
 ![snake gif](https://github.com/NidaYucedal/NidaYucedal/blob/output/github-contribution-grid-snake.svg)
-<img align=beside width=300 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" /><img align=beside width=300 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" /> 
+
+
+<!-- <img align=beside width=300 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" /><img align=beside width=300 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" /> --!>
 
 
 
