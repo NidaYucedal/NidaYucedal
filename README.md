@@ -1,15 +1,13 @@
 ### Bonjour<img align=beside width=190 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/c25882c15c5e1a39091f3d0bed50f3e9.gif" />
 
-- 🌸 I’m Full Stack Automation Engineer ♡
+- 🌸 I’m Full Stack Automation Engineer ♡ 
 - 🎀 I'm currently learning Java ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 - 💻 Ask me about Java-Selenium-API-Appium ★彡
 - 💌 How to reach me: yucedalnida@gmail.com ❀
 - 💗 Fun Fact: I like to learn new language and i love coding with Java❁
 
 
-<img align=beside width=190 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/6c9d78ff0aef15b00a358ab718ed3aca.gif" />
-
- 
+<img align=beside width=190 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/6c9d78ff0aef15b00a358ab718ed3aca.gif" /> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidaYucedal&show_icons=true&theme=buefy)
 
@@ -20,7 +18,6 @@
 
 
 <!-- <img align=beside width=300 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" /><img align=beside width=300 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/3ee1d196a1548df00e138154961a4be5.gif" /> --!>
-
 
 
 <!-- <img align=above width=250 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/a2a840c33749ef3d6106e7b666668bb1.gif" /> --!>
@@ -45,3 +42,4 @@
 <a href="https://www.linkedin.com/in/nida-yucedal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NidaYucedal" height="20" width="30" /></a>  --!>
 
 <!-- <p align="beside"> <img src="https://komarev.com/ghpvc/?username=NidaYucedal&label=Bonjour%20visitors&color=0e75b6&style=flat" alt="NidaYucedal" /> </p>  --!>
+<!-- <img align=beside width=100 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/4e645b89ffc3890eef52a40684b8b4e3.gif" />  --!>
