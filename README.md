@@ -9,8 +9,7 @@
 
 <img align=beside width=190 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/6c9d78ff0aef15b00a358ab718ed3aca.gif" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NidaYucedal&show_icons=true&theme=buefy)
-<img height="194em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NidaYucedal&layout=compact&langs_count=8&theme=buefy"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=NidaYucedal&show_icons=true&theme=buefy"/> <img align=beside height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NidaYucedal&layout=compact&langs_count=8&theme=buefy"/>
 
 
 ![snake gif](https://github.com/NidaYucedal/NidaYucedal/blob/output/github-contribution-grid-snake.svg)
