@@ -12,7 +12,18 @@
 <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=NidaYucedal&show_icons=true&theme=buefy"/> <img align=beside height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NidaYucedal&layout=compact&langs_count=8&theme=buefy"/>
 
 
-![snake gif](https://github.com/NidaYucedal/NidaYucedal/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
+
+
+
+<!-- ![snake gif](https://github.com/NidaYucedal/NidaYucedal/blob/output/github-contribution-grid-snake.svg) --!>
+
 
 
 <!--| Başlık 1 | Başlık 2 | Başlık 3 |
