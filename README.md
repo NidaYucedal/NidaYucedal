@@ -12,8 +12,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
 
+
 <p align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NidaYucedal&theme=buefy&show_icons=true&count_private=true)"/>
+      <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=NidaYucedal&theme=vuek&show_icons=true&count_private=true)"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NidaYucedal&layout=compact&langs_count=8&theme=buefy"/>
 </p>
 
