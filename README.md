@@ -12,8 +12,7 @@
 
 
 <p align="center">
-
-    <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nidayucedal?cardType=github&theme=vue&Background=FFFFFF&Text=E975F5&Title=8C3CF3&Border=DCE6E5&Ring=D375DD")/>
+    <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nidayucedal?cardType=github&theme=buefy")/>
     <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NidaYucedal&layout=compact&langs_count=8&theme=buefy"/>
 </p>
 
