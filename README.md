@@ -4,16 +4,19 @@
 - 🎀 I'm currently learning JavaScript ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 - 💻 Ask me about Java-Selenium-API-Appium ★彡
 - 💌 How to reach me: yucedalnida@gmail.com ❀
-- 💗 Fun Fact: I like to learn new languages and i love coding with Java❁
+- 💗 Fun Fact: I like to learn new languages and i love coding with Java ❁
 
 
 <img align=beside width=190 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/6c9d78ff0aef15b00a358ab718ed3aca.gif" />
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidayucedal&theme=buefy&show_icons=true)
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NidaYucedal&layout=compact&langs_count=8&theme=buefy"/>
 
+
+<p align="center">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nidayucedal&theme=buefy&show_icons=true") />
+      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NidaYucedal&layout=compact&langs_count=8&theme=buefy"/>
+</p>
 
  
 
