@@ -11,7 +11,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NidaYucedal?cardType=github&theme=buefy)](https://git.io/awesome-stats-card)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidayucedal&theme=buefy&show_icons=true)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NidaYucedal&layout=compact&langs_count=8&theme=buefy"/>
 
 
@@ -25,7 +25,8 @@
 
 
 
-<!-- ![snake gif](https://github.com/NidaYucedal/NidaYucedal/blob/output/github-contribution-grid-snake.svg) --!>
+<!-- ![snake gif](https://github.com/NidaYucedal/NidaYucedal/blob/output/github-contribution-grid-snake.svg)
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NidaYucedal?cardType=github&theme=buefy)](https://git.io/awesome-stats-card) --!>
 
 <!-- <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=buefy"> <img  alt="NidaYucedal's GitHub Stats🌟" src="https://awesome-github-stats.azurewebsites.net/user-stats/NidaYucedal?cardType=github&theme=buefy" />  </a> --!>
 
