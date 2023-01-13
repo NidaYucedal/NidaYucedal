@@ -7,9 +7,9 @@
 - 💗 Fun Fact: I like to learn new languages and i love coding with Java ❁
 
 
-<img align=beside width=190 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/6c9d78ff0aef15b00a358ab718ed3aca.gif" />
+<!-- <img align=beside width=190 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/6c9d78ff0aef15b00a358ab718ed3aca.gif" /> --!>
 
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+ <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
 
 
@@ -19,10 +19,9 @@
 </p>
 
  
-
-
-
-
+<p align="center">
+<img height="230em" src="https://github.com/NidaYucedal/NidaYucedal/blob/main/e7b7eb9f2a0a86aef96baad7e7327983.gif"/>
+</p>
 
 
 
