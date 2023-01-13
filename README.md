@@ -6,7 +6,6 @@
 - 💌 How to reach me: yucedalnida@gmail.com ❀
 - 💗 Fun Fact: I like to learn new languages and i love coding with Java ❁
 
-
 <!-- <img align=beside width=190 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/6c9d78ff0aef15b00a358ab718ed3aca.gif" /> --!>
 
  <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
@@ -14,7 +13,7 @@
 
 <p align="center">
 
-    <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nidayucedal?cardType=github&theme=buefy")/>
+    <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nidayucedal?cardType=github&theme=vue&Background=FFFFFF&Text=E975F5&Title=8C3CF3&Border=BF25DD&Ring=D375DD")/>
     <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NidaYucedal&layout=compact&langs_count=8&theme=buefy"/>
 </p>
 
