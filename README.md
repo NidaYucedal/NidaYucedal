@@ -1,6 +1,6 @@
 ### Bonjour<img align=beside width=190 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/c25882c15c5e1a39091f3d0bed50f3e9.gif" />
 
-- 🌸 I’m Full Stack Automation Eng  ♡ 
+- 🌸 I’m Full Stack Automation Engi  ♡ 
 - 🎀 I'm currently learning JavaScript and Cypress  ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 - 💻 Ask me about Java-Selenium-API-Appium ★彡
 - 💌 How to reach me: yucedalnida@gmail.com ❀
