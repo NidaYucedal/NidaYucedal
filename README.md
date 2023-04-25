@@ -3,7 +3,7 @@
 - 🌸 I’m Full Stack Automation Engineer  ♡ 
 - 🎀 I'm currently learning JavaScript and Cypress  ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 - 💻 Ask me about Java-Selenium-API-Appium ★彡
-- 💌 How to reach
+- 💌 How to 
 - 💗 Fun Fact: I like to learn new languages and i love coding with Java ❁
 
 <!-- <img align=beside width=190 src="https://github.com/NidaYucedal/NidaYucedal/blob/main/6c9d78ff0aef15b00a358ab718ed3aca.gif" /> --!>
